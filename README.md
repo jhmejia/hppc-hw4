@@ -8,3 +8,4 @@ How to load the program:
 ```bash
 module load openmpi/gnu
 gcc -fopenmp problem1.c -o problem1
+```
